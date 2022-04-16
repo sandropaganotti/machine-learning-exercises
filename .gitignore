@@ -1,4 +1,4 @@
 /env
 .ipynb_checkpoints/
 *.ttf
-datasets/books/goodreads_books.csv
+datasets/*
